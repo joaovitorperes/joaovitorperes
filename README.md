@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o João Vitor</h1>
 
-<!--
-**joaovitorperes/joaovitorperes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Desenvolvedor Full Stack Júnior & QA | 💻 JavaScript · ⚛️ React · 🖥️ Node.js · 🧪 Cypress
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+Me chamo **João Vitor Ferreira Peres**, sou de Curitiba/PR, com formação e experiência prática em **Desenvolvimento Web Full Stack** e **Testes Automatizados**.  
+Atualmente, aplico meus conhecimentos em projetos próprios, utilizando tecnologias como JavaScript, React, Node.js, Cypress e Selenium.  
+Estou sempre em busca de novos desafios e oportunidades para evoluir como profissional de tecnologia.
+
+---
+
+### 🚀 Linguagens e Tecnologias
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaovitorperes&show_icons=true&theme=react&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorperes&layout=compact&langs_count=8&theme=react"/>
+</div>
+
+---
+
+### 📫 Onde me encontrar
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joão-vitor-ferreira-peres-70019a115/)
