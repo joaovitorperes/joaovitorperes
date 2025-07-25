@@ -33,8 +33,8 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como profis
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaovitorperes&show_icons=true&theme=react&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorperes&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorperes&show_icons=true&theme=react&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorperes&layout=compact&langs_count=8&theme=react&hide_border=true"/>
 </div>
 
 ---
