@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o João Vitor</h1>
 
 <p align="center">
-  🚀 Desenvolvedor Full Stack Júnior & QA | 💻 JavaScript · ⚛️ React · 🖥️ Node.js · 🧪 Cypress
+  🚀 Desenvolvedor Full Stack Júnior | 💻 JavaScript · ⚛️ React · 🖥️ Node.js · 🧪 Testes Automatizados
 </p>
 
 ---
