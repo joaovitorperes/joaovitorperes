@@ -31,8 +31,8 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como profis
 
 ## 📊 Estatísticas do GitHub
 
-![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorperes&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorperes&layout=compact&theme=radical)
+![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorperes&show_icons=true&theme=radical&cache_buster=1)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorperes&layout=compact&theme=radical&cache_buster=1)
 
 ---
 
